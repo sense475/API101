@@ -1,4 +1,9 @@
 # API101
+run docker
+```
+docker compose up
+```
+
 Init database 
 ```
 CREATE TABLE users (
